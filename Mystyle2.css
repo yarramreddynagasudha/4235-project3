@@ -1,0 +1,58 @@
+nav{
+    background-color: #bb41b3;
+    color: white;
+    padding: 10px;
+}
+nav ul{
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li{
+    color: pink;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+body{
+    background-color: rgb(185, 180, 180);
+}
+h1{
+    text-align: center;
+}
+section{
+    padding: 20px;
+}
+section h2,p{
+    text-align: center;
+}
+footer{
+    background-color: #2828d4;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    margin-right: 20px; 
+}
+
+.text {
+    flex: 1; 
+}
+
